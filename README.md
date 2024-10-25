@@ -19,9 +19,19 @@ FlagPro is an engaging quiz application where users guess the country name based
 
 ## Demo
 
-1. Blog: You can read the blog article on the project
+1. Blog: You can read the blog article on the project [Dev.to Post](https://dev.to/vaishali785/translate-guess-build-a-flag-quiz-with-expo-and-tolgee-4cah)
 
-2. Video:
+## Screenshots
+
+<div>
+<img src='https://github.com/Vaishali785/FlagPro/blob/main/docs/home.png' alt='Home Page' width='250px' height='500px' /> &nbsp;&nbsp;&nbsp;
+<img src='https://github.com/Vaishali785/FlagPro/blob/main/docs/correct_ans.png' alt='Correct Ans Page' width='250px' height='500px'/> &nbsp;&nbsp;&nbsp;
+<img src='https://github.com/Vaishali785/FlagPro/blob/main/docs/incorrect_ans.png' alt='Incorrect Ans Page' width='250px' height='500px'/> &nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Vaishali785/FlagPro/blob/main/docs/lang_modal.png' alt='Language Modal' width='250px' height='500px'/> &nbsp;&nbsp;&nbsp;
+<img src='https://github.com/Vaishali785/FlagPro/blob/main/docs/translated.png' alt='After Translation Screen' width='250px' height='500px'/> &nbsp;&nbsp;&nbsp;
+<img src='https://github.com/Vaishali785/FlagPro/blob/main/docs/result.png' alt='Result Screen' width='250px' height='500px'/> &nbsp;&nbsp;&nbsp;
+
+</div>
 
 ## Technologies
 
