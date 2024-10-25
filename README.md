@@ -19,7 +19,7 @@ FlagPro is an engaging quiz application where users guess the country name based
 
 ## Demo
 
-1. Blog: You can read the blog article on the project [DEV.to Post](https://dev.to/anni/building-a-country-to-flag-emoji-converter-app-with-vite-typescript-and-tolgee-29e9)
+1. Blog: You can read the blog article on the project
 
 2. Video:
 
@@ -39,8 +39,8 @@ To get started with the project, run the following commands in your terminal:
 ````bash
     git clone https://github.com/Vaishali785/FlagPro.git
     cd FlagPro
-
-    2. Install the dependencies
+```
+2. Install the dependencies
 
 ```bash
 npm install
